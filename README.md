@@ -364,3 +364,8 @@ Multiple overloads share the same name. Add `overloadSignature`, e.g.
 
 Maven artifact resolution failed. Check that `localRepository` points to a populated
 `.m2/repository` and that all project POMs are accessible.
+
+--
+
+**Read more at:**
+https://balasubramanian-singaravelu.dev/2026/03/06/mcp-server-maven-deps.html
