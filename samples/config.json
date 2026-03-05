@@ -1,0 +1,8 @@
+{
+  "cachePath": "target/.maven-deps-inspector-cache",
+  "projects": [
+    {
+      "pomPath": "sample-project/pom.xml"
+    }
+  ]
+}

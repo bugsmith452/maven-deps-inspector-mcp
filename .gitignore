@@ -1,0 +1,13 @@
+target/
+.maven-deps-inspector-cache/
+*.class
+
+# Local test config (machine-specific paths; user creates from template)
+samples/test1-config.json
+
+src/test/java/io/mavendoc/test1/
+
+# Local workflow docs
+PUBLISH_CHECKLIST.md
+CONTENT_DRAFT.md
+test_mcp_handshake.py

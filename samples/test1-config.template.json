@@ -1,0 +1,12 @@
+{
+  "_comment": "_",
+  "cachePath": "/ABSOLUTE/PATH/TO/.maven-deps-inspector-cache",
+  "localRepository": "/ABSOLUTE/PATH/TO/.m2/repository",
+  "projects": [
+    {
+      "pomPath": "/ABSOLUTE/PATH/TO/sample-maven-project/pom.xml",
+      "root": "/ABSOLUTE/PATH/TO/sample-maven-project",
+      "modules": ["optional-module-name"]
+    }
+  ]
+}
